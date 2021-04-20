@@ -1,3 +1,1 @@
-# Pyhton Course
-
-Programlama Kursumuza Hoşgeldiniz
+# Wellcome
